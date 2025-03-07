@@ -15,10 +15,6 @@ Our app was awarded a **special mention** at "Tech for Climate", an event organi
 - A leaderboard to gamify the experience and encourage competition
 - AI-generated personalized suggestions to reduce carbon footprint after completing the questionnaire
 
-## Demo
-
-https://github.com/user-attachments/assets/65e0dde9-9010-48e5-b6b7-3f4c4ad40647
-
 ## 🌟 Team 🌟
 - Alexandru-Gabriel Oanea (FullStack)
 - Cosmin Petriuc (FrontEnd)
@@ -26,3 +22,6 @@ https://github.com/user-attachments/assets/65e0dde9-9010-48e5-b6b7-3f4c4ad40647
 - David Florea (BackEnd)
 - Ovidiu Taciuc (BackEnd)
 
+## Demo
+
+https://github.com/user-attachments/assets/65e0dde9-9010-48e5-b6b7-3f4c4ad40647
